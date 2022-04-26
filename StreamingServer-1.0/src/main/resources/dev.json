@@ -1,0 +1,44 @@
+{
+  "key": null,
+  "value": "{ \"body\": { \"counts\": 1, \"packets\": [ { \"packet\": { \"data\": { \"rssi\": -59, \"payload\": [ 162, 0.04, 0.03, 0.08, 0.0, 0.0, 0.0, 78 ], \"msgId\": 32769, \"time\": \"2021-12-08T10:31:01.686381Z\", \"mac\": \"F0:B5:D1:9F:24:D8\" }, \"received.time\": \"2021-12-08T14:17:08.305097800\", \"tag\": \"coupang/vib\" } } ] }, \"status\": { \"code\": \"0000\", \"message\": \"OK\" } }",
+  "topic": "thingarxhub",
+  "partition": 0,
+  "offset": 685367,
+  "timestamp": "2021-12-23 13:17:00",
+  "timestampType": 0
+}
+
+{
+  "key": "UkVTVFByb2R1Y2Vy",
+  "value": "{\"data\":{\"rssi\":-64},\"receivedtime\":\"2021-12-23T04:17:09.660145\",\"tag\":\"coupang/vib\"}",
+  "topic": "thingarxhub",
+  "partition": 0,
+  "offset": 685368,
+  "timestamp": "2021-12-23 13:17:09",
+  "timestampType": 0
+}
+
+{
+  "topic": "thingarxhub",
+  "tag": "coupang/vib",
+  "datalist": [
+    {
+      "msgId": 32769,
+      "time": "2021-12-08T10:31:01.686381Z",
+      "mac": "F0:B5:D1:9F:24:D8",
+      "payload": [
+        162,
+        0.04,
+        0.03,
+        0.08,
+        0.0,
+        0.0,
+        0.0,
+        78,
+        79,
+        80
+      ],
+      "rssi": -59
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StreamingWC3_DefaultArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/StreamingWC3_DefaultArtifact</output-path>
+    <root id="archive" name="default_artifact.jar">
+      <element id="module-output" name="StreamingServer" />
+    </root>
+  </artifact>
+</component>
